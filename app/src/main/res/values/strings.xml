@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Smart Traffic</string>
+    <string name="appsName">Smart Traffic</string>
+    <string name="login">Login</string>
+    <string name="quote">All in one mobile traffic solution</string>
+    <string name="fyp">Forgot Your Password ?</string>
+    <string name="logOther">Log in with other media</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_parking_recycler">ParkingRecyclerActivity</string>
+
+</resources>
